@@ -1,0 +1,14 @@
+
+body {
+    background-color: blue;
+    text-align: center;
+    font-size: 16px;
+}
+
+div {
+    background-color: greenyellow;
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px black;
+    border-radius: 10px;
+}
